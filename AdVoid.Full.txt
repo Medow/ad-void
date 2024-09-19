@@ -66,8 +66,8 @@
 ||abadit5rckd.com^
 ||abedwest.com^
 ||absorbedscholarsvolatile.com^
-||abstractedauthority.com^|http://1.2.3.4|https://1.2.3.4
-||abstractedauthority.com^|http://[2001:db8::1]|https://[2001:db8::1]
+||abstractedauthority.com^|1.2.3.4
+||abstractedauthority.com^|2001:db8::1
 ||abtasty.com^$third-party
 ||acacdn.com^
 ||acam-2.com^
